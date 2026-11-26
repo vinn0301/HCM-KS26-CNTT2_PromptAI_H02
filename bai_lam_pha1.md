@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:** Nguyễn Phước Lê Vinh
 - **Lớp:** KS26-CNTT2
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/vinn0301/HCM-KS26-CNTT2_PromptAI_H02
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
